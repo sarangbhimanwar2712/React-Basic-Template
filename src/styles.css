@@ -30,3 +30,17 @@
 .section h1{
     text-align: center;
 }
+
+.footer{
+    background-color: navy;
+    text-align: center;
+    color: white;
+
+}
+
+.footer .menu a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+}
